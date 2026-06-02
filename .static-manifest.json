@@ -1,0 +1,15 @@
+{
+    "domain": "valoragregadojuridico.com",
+    "base_url": "https:\/\/valoragregadojuridico.com",
+    "pages": 79,
+    "assets": 192,
+    "total_files": 271,
+    "total_size_mb": 21.48,
+    "output_dir": "\/tmp\/static-export\/valoragregadojuridico.com",
+    "pages_failed": [
+        "https:\/\/valoragregadojuridico.com\/wp-sitemap.xml",
+        "https:\/\/valoragregadojuridico.com\/practice-areas"
+    ],
+    "assets_failed": [],
+    "generated_at": "2026-06-02 04:49:56"
+}
